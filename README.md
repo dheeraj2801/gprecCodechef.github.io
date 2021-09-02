@@ -1,1 +1,1 @@
-<a href="gprecCodechef.github.io">GPRECCodeChef</a>
+gprecCodechef.github.io
